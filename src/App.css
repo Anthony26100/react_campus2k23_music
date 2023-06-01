@@ -1,38 +1,102 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-nav {
+  background-color: red;
+}
+
+.nav-element {
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-list, .countries-list {
+  list-style: none;
+}
+
+.nav-text {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.nav-img {
+  width: 50px;
+  height: 50px;
+}
+
+.contenaire {
+  display: flex;
+}
+
+.countries {
+  display: flex;
+  width: auto;
+  padding: 5px;
+  background-color: red;
+}
+
+.countries-list {
+  display: flex;
+  padding: 5px;
+  background-color: green;
+}
+
+label {
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: bold;
+  gap: 15px;
+}
+
+.tags {
+  background-color: blue;
+  width: 100%;
+}
+
+.tags-box {
+  display: flex;
+  justify-content: center;
+  margin: 5vh 0;
+  height: auto;
+  background-color: aliceblue;
+}
+
+.title-h2 {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* FLEX CARD */
+
+.flex {
+  background-color: red;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.flex-card {
+  width: 100%;
+  background-color: blue;
   display: flex;
   flex-direction: column;
-  align-items: center;
+
+}
+
+.flex-card-name {
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.flex-card-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

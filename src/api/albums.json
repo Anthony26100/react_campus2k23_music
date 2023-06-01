@@ -1,0 +1,259 @@
+{
+  "feed": {
+    "title": "Classement des albums",
+    "id": "https://rss.applemarketingtools.com/api/v2/fr/music/most-played/10/albums.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.applemarketingtools.com/api/v2/fr/music/most-played/10/albums.json"
+      }
+    ],
+    "copyright": "Copyright © 2023 Apple Inc. All rights reserved.",
+    "country": "fr",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Thu, 1 Jun 2023 11:18:51 +0000",
+    "results": [
+      {
+        "artistName": "Werenoi",
+        "id": "1677620113",
+        "name": "Carré",
+        "releaseDate": "2023-03-10",
+        "kind": "albums",
+        "artistId": "1551258720",
+        "artistUrl": "https://music.apple.com/fr/artist/werenoi/1551258720",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/51/58/ba/5158ba8c-6773-95fb-63ae-660e32a50fae/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/carr%C3%A9/1677620113"
+      },
+      {
+        "artistName": "Mig",
+        "id": "1687572191",
+        "name": "21",
+        "releaseDate": "2023-05-26",
+        "kind": "albums",
+        "artistId": "1574351719",
+        "artistUrl": "https://music.apple.com/fr/artist/mig/1574351719",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/6e/41/11/6e411117-7b39-180a-b610-4b2bdab76986/23UMGIM25098.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/21/1687572191"
+      },
+      {
+        "artistName": "SCH",
+        "id": "1654489180",
+        "name": "Autobahn",
+        "releaseDate": "2022-11-17",
+        "kind": "albums",
+        "artistId": "252981331",
+        "artistUrl": "https://music.apple.com/fr/artist/sch/252981331",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/f1/06/05/f10605d6-5a91-a14b-79bd-38cadef3681d/5054197425875.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/autobahn/1654489180"
+      },
+      {
+        "artistName": "Aya Nakamura",
+        "id": "1665941234",
+        "name": "DNK",
+        "releaseDate": "2023-01-26",
+        "kind": "albums",
+        "artistId": "1042004371",
+        "artistUrl": "https://music.apple.com/fr/artist/aya-nakamura/1042004371",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/12/b6/32/12b632e6-7aed-4630-c3b0-a53e4515bbaa/5054197493874.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R\u0026B/Soul",
+            "url": "https://itunes.apple.com/fr/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/dnk/1665941234"
+      },
+      {
+        "artistName": "SDM",
+        "id": "1661142346",
+        "name": "Liens du 100",
+        "releaseDate": "2022-12-09",
+        "kind": "albums",
+        "artistId": "455690468",
+        "artistUrl": "https://music.apple.com/fr/artist/sdm/455690468",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/05/a6/ea/05a6ea7d-2410-df14-0a05-4321293f1cf1/22UM1IM22865.rgb.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/liens-du-100/1661142346"
+      },
+      {
+        "artistName": "Naps",
+        "id": "1684402947",
+        "name": "En temps réel",
+        "releaseDate": "2023-04-28",
+        "kind": "albums",
+        "artistId": "132720094",
+        "artistUrl": "https://music.apple.com/fr/artist/naps/132720094",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/a3/d7/f5a3d757-55a8-0bfc-d096-06432b91ce7a/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/en-temps-r%C3%A9el/1684402947"
+      },
+      {
+        "artistName": "PLK",
+        "id": "1680745443",
+        "name": "2069'",
+        "releaseDate": "2023-04-14",
+        "kind": "albums",
+        "artistId": "316583534",
+        "artistUrl": "https://music.apple.com/fr/artist/plk/316583534",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/12/e8/7d/12e87df1-67ab-f14c-d492-17d74999627c/3596974388093_cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/2069/1680745443"
+      },
+      {
+        "artistName": "Beyoncé",
+        "id": "1630005298",
+        "name": "RENAISSANCE",
+        "releaseDate": "2022-07-29",
+        "kind": "albums",
+        "artistId": "1419227",
+        "artistUrl": "https://music.apple.com/fr/artist/beyonc%C3%A9/1419227",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music112/v4/05/05/f3/0505f338-9873-feb4-af7f-27a470405e5f/196589246974.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/fr/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/renaissance/1630005298"
+      },
+      {
+        "artistName": "Tiakola",
+        "id": "1621517604",
+        "name": "Mélo",
+        "releaseDate": "2022-05-27",
+        "kind": "albums",
+        "artistId": "1334731593",
+        "artistUrl": "https://music.apple.com/fr/artist/tiakola/1334731593",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/4d/83/55/4d835585-8eb5-d3cf-341a-1266a5cd0b55/196589070982.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/m%C3%A9lo/1621517604"
+      },
+      {
+        "artistName": "Djadja \u0026 Dinaz",
+        "id": "1677372845",
+        "name": "ALPHA (Parties 1 \u0026 2)",
+        "releaseDate": "2023-03-17",
+        "kind": "albums",
+        "artistId": "1087921238",
+        "artistUrl": "https://music.apple.com/fr/artist/djadja-dinaz/1087921238",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/8a/b1/4b/8ab14bf8-4df1-f6b3-0ab7-9771594a8da6/cover.jpg/100x100bb.jpg",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-hop/Rap",
+            "url": "https://itunes.apple.com/fr/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Musique",
+            "url": "https://itunes.apple.com/fr/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/fr/album/alpha-parties-1-2/1677372845"
+      }
+    ]
+  }
+}
