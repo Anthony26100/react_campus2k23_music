@@ -1,23 +1,20 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from "react";
 import { Link, Route } from "wouter";
-import logo from './logo.svg';
-import './App.css';
-import Navbar from './components/Navbar';
-import AlbumLists from './components/AlbumLists';
-import AlbumDetails from './components/AlbumDetails';
-
+import logo from "./logo.svg";
+import "./App.css";
+import Navbar from "./components/Navbar";
+import AlbumLists from "./components/AlbumLists";
+import AlbumDetails from "./components/AlbumDetails";
 
 function App() {
-
   return (
     <div className="App">
       <Navbar />
-        <div>
-            <AlbumLists />
+      <div>
+        <AlbumLists />
 
-            <AlbumDetails />
-
-        </div>
+        <AlbumDetails />
+      </div>
     </div>
   );
 }
