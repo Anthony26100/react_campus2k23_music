@@ -5,7 +5,7 @@
 }
 
 .main-nav {
-  background-color: red;
+  background-color: rgb(190, 115, 115);
 }
 
 .nav-element {
@@ -17,6 +17,11 @@
 
 .nav-list, .countries-list {
   list-style: none;
+}
+.nav-dec {
+  text-decoration:underline  rgb(0, 255, 60);
+  color: black;
+  font-weight: bold;
 }
 
 .nav-text {
